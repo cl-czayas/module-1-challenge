@@ -10,7 +10,7 @@ This website was created in order to accurately convey the services offered by H
 
 After accessing the webpage, users can use the navigation links on the top right of the page to head directly to the section of content they are interested in.
 
-![alt text](assets/images/Horiseon.png)
+![alt text](Develop/assets/images/Horiseon.png)
 
 ## Credits
 
